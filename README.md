@@ -2,7 +2,7 @@
 This program aims to check code style of python files according to PEP 8.
 
 ## How to use
-- run the [file](https://github.com/qilinz/Static-Code-Analyser/blob/main/code_analyser.py) with argument of which folder or which file to check. e.g. `python handler.py root_folder` or `python handler.py path/main.py`
+- run the [file](https://github.com/qilinz/Static-Code-Analyser/blob/main/code_analyser.py) with argument of which folder or which file to check. e.g. `python code_analyser.py root_folder` or `python code_analyser.py path/main.py`
 - The program will list all the code issue in the given folder or the given file.
 - Attention: only `.py` file will be checked.
 
